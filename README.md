@@ -8,6 +8,7 @@ Build a strong understanding of React and become capable of developing **scalabl
 
 ## 📁 Repository Structure
 
+```
 React-Learning-Journey/
 │
 ├── Day-01/
@@ -22,6 +23,7 @@ React-Learning-Journey/
 │   └── ...
 │
 └── README.md
+```
 
 Each day's folder contains the **code, practice exercises, and a README documenting what I learned**.
 
