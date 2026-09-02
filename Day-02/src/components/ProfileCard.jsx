@@ -1,5 +1,5 @@
 
-function ProfileCard({ name, course, year, isStudent, onProfileClick }) {    // Here the onProfileClick is the component prop
+function ProfileCard({ name, course, year, isStudent, onProfileClick }) {    // Here the onProfileClick is the function prop received from the parent 
     return (
         <>
             <h1>Student Profile</h1>
